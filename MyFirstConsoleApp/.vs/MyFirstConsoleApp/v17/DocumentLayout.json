@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\File\\98_GITHUB\\head-first-csharp\\MyFirstConsoleApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97C639DE-07C2-4F6D-97A8-EF061825E089}|MyFirstConsoleApp\\MyFirstConsoleApp.csproj|c:\\file\\98_github\\head-first-csharp\\myfirstconsoleapp\\myfirstconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97C639DE-07C2-4F6D-97A8-EF061825E089}|MyFirstConsoleApp\\MyFirstConsoleApp.csproj|solutionrelative:myfirstconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\File\\98_GITHUB\\head-first-csharp\\MyFirstConsoleApp\\MyFirstConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "MyFirstConsoleApp\\Program.cs",
+              "ToolTip": "C:\\File\\98_GITHUB\\head-first-csharp\\MyFirstConsoleApp\\MyFirstConsoleApp\\Program.cs",
+              "RelativeToolTip": "MyFirstConsoleApp\\Program.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAqwEIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T10:08:56.477Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
